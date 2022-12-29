@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="uid" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" xml:lang="en-US" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="uid">url:https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel</dc:identifier>
+    <dc:date>2017-10-31T00:52:28Z</dc:date>
+    <meta property="dcterms:modified">2022-12-25T23:42:47Z</meta>
+    <dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+    <dc:publisher id="publisher">LeadVonE</dc:publisher>
+    <meta property="file-as" refines="#publisher">LeadVonE</meta>
+    <meta property="se:url.homepage" refines="#publisher">https://dpasw.com/</meta>
+    <meta property="se:role" refines="#publisher" scheme="marc:relators">bkd</meta>
+    <meta property="se:role" refines="#publisher" scheme="marc:relators">mdc</meta>
+    <meta property="se:role" refines="#publisher" scheme="marc:relators">pbl</meta>
+    <dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
+    <meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
+    <meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+    <meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
+    <link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/>
+    <meta property="a11y:certifiedBy">Nobody</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessibilityFeature">readingOrder</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityFeature">unlocked</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    <meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
+    <link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
+    <dc:title id="title">Dodging Prison and Stealing Witches</dc:title>
+    <meta property="file-as" refines="#title">Dodging Prison and Stealing Witches</meta>
+    <meta property="title-type" refines="#title">main</meta>
+    <dc:title id="fulltitle">Dodging Prison and Stealing Witches</dc:title>
+    <meta property="file-as" refines="#fulltitle">Dodging Prison and Stealing Witches</meta>
+    <meta property="title-type" refines="#fulltitle">extended</meta>
+    <dc:subject id="subject-1">Fantasy literature</dc:subject>
+    <meta property="authority" refines="#subject-1">LCSH</meta>
+    <meta property="term" refines="#subject-1">sh85047145</meta>
+    <meta property="se:subject">Fantasy</meta>
+    <dc:description id="description">Harry Potter has been banged up for ten years in the hellhole brig of Azkaban for a crime he didn't commit... Harry is given a second chance to squash Voldemort... and snatch everything his hated brother holds dear.</dc:description>
+    <meta id="long-description" property="se:long-description" refines="#description">&lt;p&gt;Harry Potter has been banged up for ten years in the hellhole brig of Azkaban for a crime he didn't commit, and his traitorous brother, the not-really-boy-who-lived, has royally messed things up. After meeting Fate and Death, Harry is given a second chance to squash Voldemort, dodge a thousand years in prison, and snatch everything his hated brother holds dear. H/Hr/LL/DG/GW.&lt;/p&gt;</meta>
+    <dc:language>en-GB</dc:language>
+    <dc:source>https://dpasw.com/</dc:source>
+    <dc:source>https://archiveofourown.org/works/5058703/chapters/11633524</dc:source>
+    <dc:source>https://www.fanfiction.net/s/11574569/1/Dodging-Prison-and-Stealing-Witches-Revenge-is-Best-Served-Raw</dc:source>
+    <meta property="se:word-count">721981</meta>
+    <meta property="se:reading-ease.flesch">81.53</meta>
+    <meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Through_the_Looking-Glass</meta>
+    <meta property="se:url.vcs.github">https://github.com/n</meta>
+    <dc:creator id="author">LeadVonE</dc:creator>
+    <meta property="file-as" refines="#author">LeadVonE</meta>
+    <meta property="se:name.person.full-name" refines="#author">James M. Coombs</meta>
+    <meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/n</meta>
+    <meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n</meta>
+    <meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+    <meta property="se:role" refines="#author" scheme="marc:relators">aui</meta>
+    <dc:contributor id="artist">n</dc:contributor>
+    <meta property="file-as" refines="#artist">n</meta>
+    <meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+    <dc:contributor id="illustrator">n</dc:contributor>
+    <meta property="file-as" refines="#illustrator">n</meta>
+    <meta property="se:url.encyclopedia.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/n</meta>
+    <meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n</meta>
+    <meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
+    <dc:contributor id="transcriber-1">n</dc:contributor>
+    <meta property="file-as" refines="#transcriber-1">n</meta>
+    <meta property="se:url.authority.nacoaf" refines="#transcriber-1">http://id.loc.gov/authorities/names/n</meta>
+    <meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+    <dc:contributor id="producer-1">n</dc:contributor>
+    <meta property="file-as" refines="#producer-1">n</meta>
+    <meta property="se:url.homepage" refines="#producer-1">n</meta>
+    <meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+    <meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
+    <meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
+    <meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+    <meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+    <meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+    <meta property="se:role" refines="#producer-1" scheme="marc:relators">wat</meta>
+    <dc:contributor id="producer-2">n</dc:contributor>
+    <meta property="file-as" refines="#producer-2">n</meta>
+    <meta property="se:url.homepage" refines="#producer-2">n</meta>
+    <meta property="role" refines="#producer-2" scheme="marc:relators">clr</meta>
+    <dc:contributor id="producer-3">n</dc:contributor>
+    <meta property="file-as" refines="#producer-3">n</meta>
+    <meta property="se:url.homepage" refines="#producer-3">n</meta>
+    <meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
+    <meta content="1.9.10" name="Sigil version"/>
+  </metadata>
+  <manifest>
+    <item id="core.css" href="css/core.css" media-type="text/css"/>
+    <item id="local.css" href="css/local.css" media-type="text/css"/>
+    <item id="se.css" href="css/se.css" media-type="text/css"/>
+    <item id="logo.svg" href="images/logo.svg" media-type="image/svg+xml"/>
+    <item id="colophon.xhtml" href="text/colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="epigraph.xhtml" href="text/epigraph.xhtml" media-type="application/xhtml+xml"/>
+    <item id="frontispiece.xhtml" href="text/frontispiece.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="halftitlepage.xhtml" href="text/halftitlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="imprint.xhtml" href="text/imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="preface.xhtml" href="text/preface.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="titlepage.xhtml" href="text/titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="uncopyright.xhtml" href="text/uncopyright.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book-1.xhtml" href="text/book-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book-2.xhtml" href="text/book-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book-2-introduction.xhtml" href="text/book-2-introduction.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book-3.xhtml" href="text/book-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book-3-introduction.xhtml" href="text/book-3-introduction.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-1-1.xhtml" href="text/chapter-1-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-1-2.xhtml" href="text/chapter-1-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-1-3.xhtml" href="text/chapter-1-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-1-4.xhtml" href="text/chapter-1-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-1-5.xhtml" href="text/chapter-1-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-1-5-bonus.xhtml" href="text/chapter-1-5-bonus.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-1-6.xhtml" href="text/chapter-1-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-1-7.xhtml" href="text/chapter-1-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-1-8.xhtml" href="text/chapter-1-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-1-9.xhtml" href="text/chapter-1-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-1-10.xhtml" href="text/chapter-1-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-1-11.xhtml" href="text/chapter-1-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-1-12.xhtml" href="text/chapter-1-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-1-13.xhtml" href="text/chapter-1-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-1-14.xhtml" href="text/chapter-1-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-15.xhtml" href="text/chapter-2-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-16.xhtml" href="text/chapter-2-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-17.xhtml" href="text/chapter-2-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-18.xhtml" href="text/chapter-2-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-19.xhtml" href="text/chapter-2-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-20.xhtml" href="text/chapter-2-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-21.xhtml" href="text/chapter-2-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-22.xhtml" href="text/chapter-2-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-23.xhtml" href="text/chapter-2-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-24.xhtml" href="text/chapter-2-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-25.xhtml" href="text/chapter-2-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-26.xhtml" href="text/chapter-2-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-27.xhtml" href="text/chapter-2-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-28.xhtml" href="text/chapter-2-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-29.xhtml" href="text/chapter-2-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-30.xhtml" href="text/chapter-2-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-31.xhtml" href="text/chapter-2-31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-32.xhtml" href="text/chapter-2-32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-33.xhtml" href="text/chapter-2-33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-34.xhtml" href="text/chapter-2-34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-35.xhtml" href="text/chapter-2-35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2-36.xhtml" href="text/chapter-2-36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-37.xhtml" href="text/chapter-3-37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-38.xhtml" href="text/chapter-3-38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-39.xhtml" href="text/chapter-3-39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-40.xhtml" href="text/chapter-3-40.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-41.xhtml" href="text/chapter-3-41.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-42.xhtml" href="text/chapter-3-42.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-43.xhtml" href="text/chapter-3-43.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-44.xhtml" href="text/chapter-3-44.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-45.xhtml" href="text/chapter-3-45.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-46.xhtml" href="text/chapter-3-46.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-47.xhtml" href="text/chapter-3-47.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-48.xhtml" href="text/chapter-3-48.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-49.xhtml" href="text/chapter-3-49.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-50.xhtml" href="text/chapter-3-50.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-51.xhtml" href="text/chapter-3-51.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-52.xhtml" href="text/chapter-3-52.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-53.xhtml" href="text/chapter-3-53.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-54.xhtml" href="text/chapter-3-54.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-55.xhtml" href="text/chapter-3-55.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-56.xhtml" href="text/chapter-3-56.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-57.xhtml" href="text/chapter-3-57.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-57-bonus.xhtml" href="text/chapter-3-57-bonus.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-58.xhtml" href="text/chapter-3-58.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-59.xhtml" href="text/chapter-3-59.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3-59-extra.xhtml" href="text/chapter-3-59-extra.xhtml" media-type="application/xhtml+xml"/>
+    <item id="illustration-2.png" href="images/illustration-2.png" media-type="image/png"/>
+    <item id="cover.svg" href="images/cover.svg" media-type="image/svg+xml"/>
+    <item id="titlepage.svg" href="images/titlepage.svg" media-type="image/svg+xml"/>
+    <item id="logo.png" href="images/logo.png" media-type="image/png"/>
+    <item id="sgc-nav.css" href="css/sgc-nav.css" media-type="text/css"/>
+    <item id="nav.xhtml" href="text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+  </manifest>
+  <spine>
+    <itemref idref="titlepage.xhtml"/>
+    <itemref idref="imprint.xhtml"/>
+    <itemref idref="epigraph.xhtml"/>
+    <itemref idref="frontispiece.xhtml"/>
+    <itemref idref="preface.xhtml"/>
+    <itemref idref="halftitlepage.xhtml"/>
+    <itemref idref="book-1.xhtml"/>
+    <itemref idref="chapter-1-1.xhtml"/>
+    <itemref idref="chapter-1-2.xhtml"/>
+    <itemref idref="chapter-1-3.xhtml"/>
+    <itemref idref="chapter-1-4.xhtml"/>
+    <itemref idref="chapter-1-5.xhtml"/>
+    <itemref idref="chapter-1-5-bonus.xhtml"/>
+    <itemref idref="chapter-1-6.xhtml"/>
+    <itemref idref="chapter-1-7.xhtml"/>
+    <itemref idref="chapter-1-8.xhtml"/>
+    <itemref idref="chapter-1-9.xhtml"/>
+    <itemref idref="chapter-1-10.xhtml"/>
+    <itemref idref="chapter-1-11.xhtml"/>
+    <itemref idref="chapter-1-12.xhtml"/>
+    <itemref idref="chapter-1-13.xhtml"/>
+    <itemref idref="chapter-1-14.xhtml"/>
+    <itemref idref="book-2.xhtml"/>
+    <itemref idref="book-2-introduction.xhtml"/>
+    <itemref idref="chapter-2-15.xhtml"/>
+    <itemref idref="chapter-2-16.xhtml"/>
+    <itemref idref="chapter-2-17.xhtml"/>
+    <itemref idref="chapter-2-18.xhtml"/>
+    <itemref idref="chapter-2-19.xhtml"/>
+    <itemref idref="chapter-2-20.xhtml"/>
+    <itemref idref="chapter-2-21.xhtml"/>
+    <itemref idref="chapter-2-22.xhtml"/>
+    <itemref idref="chapter-2-23.xhtml"/>
+    <itemref idref="chapter-2-24.xhtml"/>
+    <itemref idref="chapter-2-25.xhtml"/>
+    <itemref idref="chapter-2-26.xhtml"/>
+    <itemref idref="chapter-2-27.xhtml"/>
+    <itemref idref="chapter-2-28.xhtml"/>
+    <itemref idref="chapter-2-29.xhtml"/>
+    <itemref idref="chapter-2-30.xhtml"/>
+    <itemref idref="chapter-2-31.xhtml"/>
+    <itemref idref="chapter-2-32.xhtml"/>
+    <itemref idref="chapter-2-33.xhtml"/>
+    <itemref idref="chapter-2-34.xhtml"/>
+    <itemref idref="chapter-2-35.xhtml"/>
+    <itemref idref="chapter-2-36.xhtml"/>
+    <itemref idref="book-3.xhtml"/>
+    <itemref idref="book-3-introduction.xhtml"/>
+    <itemref idref="chapter-3-37.xhtml"/>
+    <itemref idref="chapter-3-38.xhtml"/>
+    <itemref idref="chapter-3-39.xhtml"/>
+    <itemref idref="chapter-3-40.xhtml"/>
+    <itemref idref="chapter-3-41.xhtml"/>
+    <itemref idref="chapter-3-42.xhtml"/>
+    <itemref idref="chapter-3-43.xhtml"/>
+    <itemref idref="chapter-3-44.xhtml"/>
+    <itemref idref="chapter-3-45.xhtml"/>
+    <itemref idref="chapter-3-46.xhtml"/>
+    <itemref idref="chapter-3-47.xhtml"/>
+    <itemref idref="chapter-3-48.xhtml"/>
+    <itemref idref="chapter-3-49.xhtml"/>
+    <itemref idref="chapter-3-50.xhtml"/>
+    <itemref idref="chapter-3-51.xhtml"/>
+    <itemref idref="chapter-3-52.xhtml"/>
+    <itemref idref="chapter-3-53.xhtml"/>
+    <itemref idref="chapter-3-54.xhtml"/>
+    <itemref idref="chapter-3-55.xhtml"/>
+    <itemref idref="chapter-3-56.xhtml"/>
+    <itemref idref="chapter-3-57.xhtml"/>
+    <itemref idref="chapter-3-57-bonus.xhtml"/>
+    <itemref idref="chapter-3-58.xhtml"/>
+    <itemref idref="chapter-3-59.xhtml"/>
+    <itemref idref="chapter-3-59-extra.xhtml"/>
+    <itemref idref="colophon.xhtml"/>
+    <itemref idref="uncopyright.xhtml"/>
+    <itemref idref="nav.xhtml" linear="no"/>
+  </spine>
+</package>
