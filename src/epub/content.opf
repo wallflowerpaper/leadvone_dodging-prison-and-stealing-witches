@@ -172,7 +172,7 @@
     <item id="titlepage.svg" href="images/titlepage.svg" media-type="image/svg+xml"/>
     <item id="logo.png" href="images/logo.png" media-type="image/png"/>
     <item id="sgc-nav.css" href="css/sgc-nav.css" media-type="text/css"/>
-    <item id="nav.xhtml" href="text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="toc.xhtml" href="text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
   </manifest>
   <spine>
     <itemref idref="titlepage.xhtml"/>
@@ -250,6 +250,6 @@
     <itemref idref="chapter-3-59-extra.xhtml"/>
     <itemref idref="colophon.xhtml"/>
     <itemref idref="uncopyright.xhtml"/>
-    <itemref idref="nav.xhtml" linear="no"/>
+    <itemref idref="toc.xhtml" linear="no"/>
   </spine>
 </package>
