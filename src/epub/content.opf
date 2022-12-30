@@ -51,25 +51,25 @@
     <dc:creator id="author">LeadVonE</dc:creator>
     <meta property="file-as" refines="#author">LeadVonE</meta>
     <meta property="se:name.person.full-name" refines="#author">James M. Coombs</meta>
-    <meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/n</meta>
-    <meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n</meta>
+    <meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Remus_Lupin</meta>
+    <meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/Remus_Lupin</meta>
     <meta property="role" refines="#author" scheme="marc:relators">aut</meta>
     <meta property="se:role" refines="#author" scheme="marc:relators">aui</meta>
     <dc:contributor id="artist">n</dc:contributor>
-    <meta property="file-as" refines="#artist">n</meta>
+    <meta property="file-as" refines="#artist">Remus_Lupin</meta>
     <meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-    <dc:contributor id="illustrator">n</dc:contributor>
-    <meta property="file-as" refines="#illustrator">n</meta>
-    <meta property="se:url.encyclopedia.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/n</meta>
-    <meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n</meta>
+    <dc:contributor id="illustrator">Remus_Lupin</dc:contributor>
+    <meta property="file-as" refines="#illustrator">Remus_Lupin</meta>
+    <meta property="se:url.encyclopedia.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/Remus_Lupin</meta>
+    <meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/Remus_Lupin</meta>
     <meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
-    <dc:contributor id="transcriber-1">n</dc:contributor>
-    <meta property="file-as" refines="#transcriber-1">n</meta>
-    <meta property="se:url.authority.nacoaf" refines="#transcriber-1">http://id.loc.gov/authorities/names/n</meta>
+    <dc:contributor id="transcriber-1">Remus_Lupin</dc:contributor>
+    <meta property="file-as" refines="#transcriber-1">Remus_Lupin</meta>
+    <meta property="se:url.authority.nacoaf" refines="#transcriber-1">http://id.loc.gov/authorities/names/Remus_Lupin</meta>
     <meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-    <dc:contributor id="producer-1">n</dc:contributor>
-    <meta property="file-as" refines="#producer-1">n</meta>
-    <meta property="se:url.homepage" refines="#producer-1">n</meta>
+    <dc:contributor id="producer-1">Remus_Lupin</dc:contributor>
+    <meta property="file-as" refines="#producer-1">Remus_Lupin</meta>
+    <meta property="se:url.homepage" refines="#producer-1">Remus_Lupin</meta>
     <meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
     <meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
     <meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -77,13 +77,13 @@
     <meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
     <meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
     <meta property="se:role" refines="#producer-1" scheme="marc:relators">wat</meta>
-    <dc:contributor id="producer-2">n</dc:contributor>
-    <meta property="file-as" refines="#producer-2">n</meta>
-    <meta property="se:url.homepage" refines="#producer-2">n</meta>
+    <dc:contributor id="producer-2">Remus_Lupin</dc:contributor>
+    <meta property="file-as" refines="#producer-2">Remus_Lupin</meta>
+    <meta property="se:url.homepage" refines="#producer-2">Remus_Lupin</meta>
     <meta property="role" refines="#producer-2" scheme="marc:relators">clr</meta>
-    <dc:contributor id="producer-3">n</dc:contributor>
-    <meta property="file-as" refines="#producer-3">n</meta>
-    <meta property="se:url.homepage" refines="#producer-3">n</meta>
+    <dc:contributor id="producer-3">Remus_Lupin</dc:contributor>
+    <meta property="file-as" refines="#producer-3">Remus_Lupin</meta>
+    <meta property="se:url.homepage" refines="#producer-3">Remus_Lupin</meta>
     <meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
     <meta content="1.9.10" name="Sigil version"/>
   </metadata>
