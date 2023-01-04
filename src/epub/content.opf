@@ -3,7 +3,7 @@
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:identifier id="uid">url:https://standardebooks.org/ebooks/lewis-carroll/through-the-looking-glass/john-tenniel</dc:identifier>
     <dc:date>2017-10-31T00:52:28Z</dc:date>
-    <meta property="dcterms:modified">2022-12-25T23:42:47Z</meta>
+    <meta property="dcterms:modified">2023-01-04T18:34:54Z</meta>
     <dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
     <dc:publisher id="publisher">LeadVonE</dc:publisher>
     <meta property="file-as" refines="#publisher">LeadVonE</meta>
@@ -51,25 +51,25 @@
     <dc:creator id="author">LeadVonE</dc:creator>
     <meta property="file-as" refines="#author">LeadVonE</meta>
     <meta property="se:name.person.full-name" refines="#author">James M. Coombs</meta>
-    <meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Remus_Lupin</meta>
-    <meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/Remus_Lupin</meta>
+    <meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/n</meta>
+    <meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n</meta>
     <meta property="role" refines="#author" scheme="marc:relators">aut</meta>
     <meta property="se:role" refines="#author" scheme="marc:relators">aui</meta>
     <dc:contributor id="artist">n</dc:contributor>
-    <meta property="file-as" refines="#artist">Remus_Lupin</meta>
+    <meta property="file-as" refines="#artist">n</meta>
     <meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-    <dc:contributor id="illustrator">Remus_Lupin</dc:contributor>
-    <meta property="file-as" refines="#illustrator">Remus_Lupin</meta>
-    <meta property="se:url.encyclopedia.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/Remus_Lupin</meta>
-    <meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/Remus_Lupin</meta>
+    <dc:contributor id="illustrator">n</dc:contributor>
+    <meta property="file-as" refines="#illustrator">n</meta>
+    <meta property="se:url.encyclopedia.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/n</meta>
+    <meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n</meta>
     <meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
-    <dc:contributor id="transcriber-1">Remus_Lupin</dc:contributor>
-    <meta property="file-as" refines="#transcriber-1">Remus_Lupin</meta>
-    <meta property="se:url.authority.nacoaf" refines="#transcriber-1">http://id.loc.gov/authorities/names/Remus_Lupin</meta>
+    <dc:contributor id="transcriber-1">n</dc:contributor>
+    <meta property="file-as" refines="#transcriber-1">n</meta>
+    <meta property="se:url.authority.nacoaf" refines="#transcriber-1">http://id.loc.gov/authorities/names/n</meta>
     <meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-    <dc:contributor id="producer-1">Remus_Lupin</dc:contributor>
-    <meta property="file-as" refines="#producer-1">Remus_Lupin</meta>
-    <meta property="se:url.homepage" refines="#producer-1">Remus_Lupin</meta>
+    <dc:contributor id="producer-1">n</dc:contributor>
+    <meta property="file-as" refines="#producer-1">n</meta>
+    <meta property="se:url.homepage" refines="#producer-1">n</meta>
     <meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
     <meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
     <meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -77,13 +77,13 @@
     <meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
     <meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
     <meta property="se:role" refines="#producer-1" scheme="marc:relators">wat</meta>
-    <dc:contributor id="producer-2">Remus_Lupin</dc:contributor>
-    <meta property="file-as" refines="#producer-2">Remus_Lupin</meta>
-    <meta property="se:url.homepage" refines="#producer-2">Remus_Lupin</meta>
+    <dc:contributor id="producer-2">n</dc:contributor>
+    <meta property="file-as" refines="#producer-2">n</meta>
+    <meta property="se:url.homepage" refines="#producer-2">n</meta>
     <meta property="role" refines="#producer-2" scheme="marc:relators">clr</meta>
-    <dc:contributor id="producer-3">Remus_Lupin</dc:contributor>
-    <meta property="file-as" refines="#producer-3">Remus_Lupin</meta>
-    <meta property="se:url.homepage" refines="#producer-3">Remus_Lupin</meta>
+    <dc:contributor id="producer-3">n</dc:contributor>
+    <meta property="file-as" refines="#producer-3">n</meta>
+    <meta property="se:url.homepage" refines="#producer-3">n</meta>
     <meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
     <meta content="1.9.10" name="Sigil version"/>
   </metadata>
@@ -173,6 +173,7 @@
     <item id="logo.png" href="images/logo.png" media-type="image/png"/>
     <item id="sgc-nav.css" href="css/sgc-nav.css" media-type="text/css"/>
     <item id="toc.xhtml" href="text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="chapter-3-prologue.xhtml" href="text/chapter-3-prologue.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
     <itemref idref="titlepage.xhtml"/>
@@ -223,6 +224,7 @@
     <itemref idref="chapter-2-36.xhtml"/>
     <itemref idref="book-3.xhtml"/>
     <itemref idref="book-3-introduction.xhtml"/>
+    <itemref idref="chapter-3-prologue.xhtml"/>
     <itemref idref="chapter-3-37.xhtml"/>
     <itemref idref="chapter-3-38.xhtml"/>
     <itemref idref="chapter-3-39.xhtml"/>
